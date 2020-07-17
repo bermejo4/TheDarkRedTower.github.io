@@ -34,7 +34,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: rgb(128, 194, 238);
   font-weight: bold;
 
   line-height: 1.7;
@@ -195,11 +195,11 @@ img {
 
 .site-name {
   margin: 0;
-  color: red;
+  color: #B72E20;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: 'Times New Roman', Times, serif;  
   font-weight: 300;
-  font-size: 28px;
+  font-size: 48px;
   letter-spacing: 1px;
 }
 
@@ -218,6 +218,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
+  color: white;
 
   @include mobile {
     float: none;
