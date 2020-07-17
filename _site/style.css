@@ -356,6 +356,10 @@ footer {
   border-radius: 15px;
 }
 
+nav a {
+  color: #61b9ec;
+}
+
 .highlight {
   background-color: #efefef;
   padding: 7px 7px 7px 10px;
