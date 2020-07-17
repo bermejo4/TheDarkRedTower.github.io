@@ -215,6 +215,7 @@ img {
     float: none;
     display: block;
     margin: 0 auto;
+    margin-bottom: 25px;
   }
 }
 .site-avatar img {
@@ -320,6 +321,39 @@ nav a {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.topnav {
+  overflow: hidden;
+  background: linear-gradient(to right, #e2e2e2 0%, #d1d1d1 46%, #b3b3b3 56%, black 100%);
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
+  border-radius: 15px;
+  padding: 2px;
+}
+
+.topnav a {
+  float: left;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-radius: 15px;
+}
+
+.topnav a:hover {
+  background-color: #4994db;
+  color: black;
+  border-radius: 15px;
+}
+
+.topnav a.active {
+  background-color: #b20400;
+  color: white;
+  border-radius: 15px;
 }
 
 .highlight {

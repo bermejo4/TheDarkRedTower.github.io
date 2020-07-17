@@ -175,6 +175,7 @@ img {
     float: none;
     display: block;
     margin: 0 auto;
+    margin-bottom: 25px;
   }
 
   img {
@@ -287,6 +288,40 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.topnav {
+  overflow: hidden;
+  //background-color: rgb(255, 255, 255);
+  background: linear-gradient(to right, rgba(226,226,226,1) 0%, rgba(209,209,209,1) 46%, rgba(179,179,179,1) 56%, rgba(0,0,0,1) 100%);
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
+  border-radius: 15px;
+  padding: 2px;
+}
+
+.topnav a {
+  float: left;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-radius: 15px;
+}
+
+.topnav a:hover {
+  background-color: rgb(73, 148, 219);
+  color: black;
+  border-radius: 15px;
+}
+
+.topnav a.active {
+  background-color: #b20400;
+  color: white;
+  border-radius: 15px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
