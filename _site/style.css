@@ -196,7 +196,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 7px double white;
 }
 @media screen and (max-width: 640px) {
   .masthead {
@@ -234,12 +234,13 @@ img {
 
 .site-name {
   margin: 0;
-  color: #B72E20;
+  color: #b10401;
   cursor: pointer;
   font-family: 'Times New Roman', Times, serif;
   font-weight: 300;
   font-size: 48px;
   letter-spacing: 1px;
+  text-shadow: 1px 1px 3px white;
 }
 
 .site-description {
