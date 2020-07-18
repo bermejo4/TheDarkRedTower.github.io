@@ -384,8 +384,22 @@ nav a {
   text-shadow: 2px 2px 4px #000508;
 }
 
+.h1code{
+  color: #b9ad16;
+  font-family: "Times New Roman", Times, serif;
+  text-shadow: 1px 1px 3px #000508;
+}
+.h4code{
+  color: white;
+  text-shadow: 2px 2px 4px #000508;
+}
 
-
+.code-box {
+  box-shadow: inset -3px -2px 7px 1px #333;
+  border-radius: 15px;
+  background: rgb(0,67,106);
+  background: linear-gradient(279deg, rgba(0,67,106,1) 0%, rgba(1,121,145,1) 14%, rgba(1,162,195,1) 74%);
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

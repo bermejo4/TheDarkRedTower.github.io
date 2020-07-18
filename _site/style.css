@@ -415,6 +415,24 @@ nav a {
   text-shadow: 2px 2px 4px #000508;
 }
 
+.h1code {
+  color: #b9ad16;
+  font-family: "Times New Roman", Times, serif;
+  text-shadow: 1px 1px 3px #000508;
+}
+
+.h4code {
+  color: white;
+  text-shadow: 2px 2px 4px #000508;
+}
+
+.code-box {
+  box-shadow: inset -3px -2px 7px 1px #333;
+  border-radius: 15px;
+  background: #00436a;
+  background: linear-gradient(279deg, #00436a 0%, #017991 14%, #01a2c3 74%);
+}
+
 .highlight {
   background-color: #efefef;
   padding: 7px 7px 7px 10px;
