@@ -361,6 +361,27 @@ nav a {
   color: #61b9ec;
 }
 
+.containerp {
+  width: 80%;
+  padding-right: 0;
+  padding-top: 30px;
+  display: block;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 30px;
+}
+
+.project-box {
+  background-color: #918f8f;
+  box-shadow: 1px 1px 0 1px #3a5bc7;
+}
+
+.row {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
 .highlight {
   background-color: #efefef;
   padding: 7px 7px 7px 10px;

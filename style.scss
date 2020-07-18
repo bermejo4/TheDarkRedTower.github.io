@@ -329,6 +329,31 @@ nav a {
   color: rgb(97, 185, 236);
   
 }
+.containerp{
+  width: 80%;
+  padding-right: 0;
+  padding-top: 30px;
+  display: block;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 30px;
+}
+.project-box {
+  background-color: #918f8f;
+  box-shadow: 1px 1px 0 1px #3a5bc7;
+}
+.row {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+.project-image {
+  
+}
+.project-post {
+  
+}
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
