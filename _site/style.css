@@ -94,6 +94,9 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  text-shadow: 1px 1px 3px #eee;
 }
 h1 a {
   color: inherit;
@@ -110,6 +113,7 @@ h3 {
 h4 {
   font-size: 18px;
   color: white;
+  text-shadow: 2px 2px 4px #000508;
 }
 
 p {
@@ -154,8 +158,23 @@ strong, b {
   font-weight: bold;
 }
 
-img {
+.avat {
   max-width: 80px;
+}
+
+.projectImg {
+  max-width: 270px;
+  width: fit-content;
+  margin-left: -50px;
+  margin-bottom: -5px;
+  border-bottom-left-radius: 15px;
+  border-top-left-radius: 15px;
+  box-shadow: 4px 4px 7px 1px #333;
+}
+@media screen and (max-width: 640px) {
+  .projectImg {
+    max-width: auto;
+  }
 }
 
 .gmnoprint img {
@@ -373,13 +392,21 @@ nav a {
 }
 
 .project-box {
-  background-color: #918f8f;
-  box-shadow: 1px 1px 0 1px #3a5bc7;
+  background: linear-gradient(to right, #e63415 0%, #ba1b09 35%, #871b0c 65%, #5c1009 100%);
+  box-shadow: inset -3px -2px 7px 1px #333;
+  border-radius: 15px;
 }
 
 .row {
-  margin-right: 15px;
-  margin-left: 15px;
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column {
+  float: left;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .highlight {

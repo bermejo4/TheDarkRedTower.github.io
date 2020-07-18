@@ -48,6 +48,11 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  text-shadow: 1px 1px 3px #eee;
+
+
   a {
     color: inherit;
   }
@@ -64,6 +69,7 @@ h3 {
 h4 {
   font-size: 18px;
   color: white;
+  text-shadow: 2px 2px 4px #000508;
 }
 
 p {
@@ -109,9 +115,27 @@ strong, b {
 }
 
 img {
+  //max-width: 80px;
+}
+.avat{
   max-width: 80px;
 }
+.projectImg{
+  max-width: 270px;
+  //float: left;
+  width: fit-content;
+  margin-left: -50px;
+  margin-bottom: -5px;
+  border-bottom-left-radius: 15px;
+  border-top-left-radius: 15px;
+  box-shadow: 4px 4px 7px 1px #333;
 
+  @include mobile {
+    max-width: auto;
+  }
+
+
+}
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -340,19 +364,24 @@ nav a {
   margin-bottom: 30px;
 }
 .project-box {
-  background-color: #918f8f;
-  box-shadow: 1px 1px 0 1px #3a5bc7;
+  background: linear-gradient(to right, rgba(230,52,21,1) 0%, rgba(186,27,9,1) 35%, rgba(135,27,12,1) 65%, rgba(92,16,9,1) 100%);
+  box-shadow: inset -3px -2px 7px 1px #333;
+  border-radius: 15px;
 }
 .row {
-  margin-right: 15px;
-  margin-left: 15px;
+  content: "";
+  display: table;
+  clear: both;
+  //margin-right: 15px;
+  //margin-left: 15px;
 }
-.project-image {
-  
+.column {
+  float: left;
+  padding-left: 50px;
+  padding-right: 50px;
+  //height: 300px; /* Should be removed. Only for demonstration */
 }
-.project-post {
-  
-}
+
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
