@@ -48,11 +48,6 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
-  color: black;
-  font-family: "Times New Roman", Times, serif;
-  text-shadow: 1px 1px 3px #eee;
-
-
   a {
     color: inherit;
   }
@@ -68,8 +63,6 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: white;
-  text-shadow: 2px 2px 4px #000508;
 }
 
 p {
@@ -381,6 +374,16 @@ nav a {
   padding-right: 50px;
   //height: 300px; /* Should be removed. Only for demonstration */
 }
+.h1project{
+  color: black;
+    font-family: "Times New Roman", Times, serif;
+    text-shadow: 1px 1px 3px #eee;
+}
+.h4project{
+  color: white;
+  text-shadow: 2px 2px 4px #000508;
+}
+
 
 
 
