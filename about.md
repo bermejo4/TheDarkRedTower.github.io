@@ -23,8 +23,3 @@ En este blog podrás encontrar posts para ayudarte con problemas a los que anter
 Este blog está escrito en Ingés y Español, por ello si tiene alguna duda sientase libre de preguntar por cualquier canal (comentarios, Twitter, LinkedIn...). 
 
 Gracias y BIENVENIDO!
-
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
