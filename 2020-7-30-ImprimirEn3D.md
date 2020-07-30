@@ -2,6 +2,7 @@
 layout: post
 title: Imprimir en 3D desde cero
 ---
+*****
 ### Cosas necesarias:
 - Un ordenador
 - Una impresora 3D
@@ -17,9 +18,15 @@ Este software se instala muy fácilmente.
 
 Hay un software, o mejor dicho extensión, del propio Sketch-Up que es necesario instalar por motivos que después explicaremos. 
 
-Con Sketch-up tenemos disponible un centro de extensiones en el que descargarnos software extra para completar nuestros trabajos. Nosotros nos descargaremos una extensión que convierte nuestro diseño guardado como “.skp”, en un diseño con el formato “.stl”. Con poner en la barra del buscador de extensiones la palabra “stl” nos aparece directamente la extensión que deseamos. Una vez que tengamos la extensión le damos a “descargar” (o “instalar” en algunos casos). Para este paso hay que tener una cuenta en Sketch-Up, pero si te lo has descargado de la página oficial posiblemente ya la tengas e incluso esté sincronizada con tu Sketch-Up.
+Con Sketch-up tenemos disponible un centro de extensiones en el que descargarnos software extra para completar nuestros proyectos o trabajos. Nosotros nos descargaremos una extensión que convierte nuestro diseño guardado como “.skp”, en un diseño con el formato “.stl”. Con poner en la barra del buscador de extensiones la palabra “stl” nos aparece directamente la extensión que deseamos. Una vez que tengamos la extensión le damos a “descargar” (o “instalar” en algunos casos). Para este paso hay que tener una cuenta en Sketch-Up, pero si te lo has descargado de la página oficial posiblemente ya la tengas e incluso esté sincronizada con tu Sketch-Up.
 
-![_config.yml]({{ site.baseurl }}/images/projectsImages/3Dprint/Imprimir3D_CentroDeExtensiones.png)
+Centro de extensiones de Sketch-Up:
+<img src="/images/projectsImages/3Dprint/Imprimir3D_CentroDeExtensiones.png" alt="CentroDeExtensionesSKP"
+	title="ExtensionesSKP" width="100%"/>
+
+Extensión Stl que debemos instalar:
+<img src="/images/projectsImages/3Dprint/ExtensionStl.png" alt="ExtensionStl"
+	title="ExtensionesStl" width="100%"/>
 
 De cara a nuestra impresora 3D necesitamos 2 softwares especialmente, uno de ellos es la interfaz gráfica que nos permite comunicarnos con nuestra impresora 3D (Repetier-Host), y el otro es un laminador o trasformador a g-code (Slic3r o Cura). 
 
@@ -36,7 +43,8 @@ Como anteriormente nos hemos descargado la extensión este paso es muy sencillo.
 Una vez tengamos todo listo (extensión instalada y diseño abierto) nos iremos a la barra de herramientas superior, a “archivo” (o “file”) y pulsaremos en “exportar como stl” (o “export as stl”), nos saldrá una ventana preguntándonos las medidas y el formato del archivo, nos tenemos que asegurar que las medidas estén en milímetros y el formato del archivo en “ASCII”; y finalmente le daremos a “exportar” (o “export”).
 
 
-Si únicamente queremos probar nuestra impresora 3D, y por algún motivo no disponemos del tiempo necesario para crear un diseño, podemos recurrir a alguna de las grandes galerías de diseños stl de internet. Una de las más famosas y usadas es: https://www.thingiverse.com/ , en ella podrás encontrar numerosos diseños hechos por otros entusiastas de la impresión 3D, descargarlos (se descargará un archivo comprimido que en su interior tendrá archivos en formato stl) e imprimirlos con facilidad.
+Si únicamente queremos probar nuestra impresora 3D, y por algún motivo no disponemos del tiempo necesario para crear un diseño, podemos recurrir a alguna de las grandes galerías de diseños stl de internet. Una de las más famosas y usadas es: <a href="https://www.thingiverse.com/" target="_blank">www.thingiverse.com</a>
+, en ella podrás encontrar numerosos diseños hechos por otros entusiastas de la impresión 3D, descargarlos (se descargará un archivo comprimido que en su interior tendrá archivos en formato stl) e imprimirlos con facilidad.
  
 ### Impresión 3D:
 
@@ -62,7 +70,3 @@ Una vez que tengamos nuestra impresora encendida, conectada con la interfaz grá
 Es aconsejable que se pulse en la interfaz gráfica los botones de calentar cama y calentar extrusor mucho antes de darle a imprimir para ahorrarnos tiempo, porque dependiendo del tipo de impresora esta acción puede llevar de 2 a 10 minutos hasta alcanzar las temperaturas optimas.
 
 Como he dicho al principio recomiendo leer bien el manual de la impresora y configuraciones, antes de nada.
-
-
-
-![_config.yml]({{ site.baseurl }}/images/Th3RedTower.png)
