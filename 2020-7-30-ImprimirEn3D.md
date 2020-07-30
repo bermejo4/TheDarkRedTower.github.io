@@ -19,6 +19,8 @@ Hay un software, o mejor dicho extensión, del propio Sketch-Up que es necesario
 
 Con Sketch-up tenemos disponible un centro de extensiones en el que descargarnos software extra para completar nuestros trabajos. Nosotros nos descargaremos una extensión que convierte nuestro diseño guardado como “.skp”, en un diseño con el formato “.stl”. Con poner en la barra del buscador de extensiones la palabra “stl” nos aparece directamente la extensión que deseamos. Una vez que tengamos la extensión le damos a “descargar” (o “instalar” en algunos casos). Para este paso hay que tener una cuenta en Sketch-Up, pero si te lo has descargado de la página oficial posiblemente ya la tengas e incluso esté sincronizada con tu Sketch-Up.
 
+![_config.yml]({{ site.baseurl }}/images/projectsImages/3Dprint/Imprimir3D_CentroDeExtensiones.png)
+
 De cara a nuestra impresora 3D necesitamos 2 softwares especialmente, uno de ellos es la interfaz gráfica que nos permite comunicarnos con nuestra impresora 3D (Repetier-Host), y el otro es un laminador o trasformador a g-code (Slic3r o Cura). 
 
 Cada fabricante de impresoras 3D recomiendan un software de interfaz gráfica diferente, pero todos ellos deben desempeñar la misma acción, que es la de permitir interactuar al usuario con su impresora 3D. Recomiendo descargar la última versión de “Repetier-Host” y de “Slic3r” para el sistema operativo que desee, posteriormente ya los configuraremos.
