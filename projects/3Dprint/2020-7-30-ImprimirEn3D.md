@@ -42,6 +42,9 @@ Ahora viene una parte muy importante y es guardarlo en un formato que posteriorm
 Como anteriormente nos hemos descargado la extensión este paso es muy sencillo.
 Una vez tengamos todo listo (extensión instalada y diseño abierto) nos iremos a la barra de herramientas superior, a “archivo” (o “file”) y pulsaremos en “exportar como stl” (o “export as stl”), nos saldrá una ventana preguntándonos las medidas y el formato del archivo, nos tenemos que asegurar que las medidas estén en milímetros y el formato del archivo en “ASCII”; y finalmente le daremos a “exportar” (o “export”).
 
+Esta sería la configuración: 
+<img src="/images/projectsImages/3Dprint/Export.png" alt="ExportImage"
+	title="ExportImage" width="100%"/>
 
 Si únicamente queremos probar nuestra impresora 3D, y por algún motivo no disponemos del tiempo necesario para crear un diseño, podemos recurrir a alguna de las grandes galerías de diseños stl de internet. Una de las más famosas y usadas es: <a href="https://www.thingiverse.com/" target="_blank">www.thingiverse.com</a>
 , en ella podrás encontrar numerosos diseños hechos por otros entusiastas de la impresión 3D, descargarlos (se descargará un archivo comprimido que en su interior tendrá archivos en formato stl) e imprimirlos con facilidad.
