@@ -5,9 +5,6 @@
 <lastmod>2020-07-10T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2020-7-30-ImprimirEn3D/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/projects/3Dprint/2020-7-30-ImprimirEn3D/</loc>
 </url>
 <url>
@@ -21,6 +18,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/projects/blockchain/BlockchainIndex/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/code/java/BuscadorDeGenes/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/code/c/CIndex/</loc>

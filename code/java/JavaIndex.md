@@ -3,14 +3,28 @@ layout: post
 title: Java Index 
 ---
 *****
-Nothing here, I'm working on it.
+ <a href="/code/java/BuscadorDeGenes" style="
+    font-size: 27px;
+    font-weight: 600;
+    font-family: serif;
+	color: #b20400;
+"> ➡️ Buscador de Genes </a>
 
-<img src="/images/work.png" alt="Working" title="Working" width="50%" style="
+*****
+<a href="/code/java/BuscadorDeGenes" style="
+    font-size: 27px;
+    font-weight: 600;
+    font-family: serif;
+	color: #b20400;
+"> ➡️ Base de datos de una red de protesis </a>
+
+*****
+<img src="/images/javalogo.png" alt="JavaImage" title="Java" width="50%" style="
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: inherit;
+    border-radius: 15px;
 ">
-
-Nada aquí, estoy trabajando en ello.
 
 *****
