@@ -434,16 +434,9 @@ nav a {
 }
 
 .highlight {
-  background-color: #efefef;
   padding: 7px 7px 7px 10px;
-  border: 1px solid #ddd;
-  -moz-box-shadow: 1px 1px 10px #000508;
-  -webkit-box-shadow: 1px 1px 10px #000508;
-  box-shadow: 1px 1px 10px #000508;
-  margin: 20px 0 20px 0;
   overflow: scroll;
   font-size: small;
-  border-radius: 15px;
 }
 
 code {
