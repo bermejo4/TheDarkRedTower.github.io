@@ -401,6 +401,26 @@ nav a {
   background: linear-gradient(279deg, rgba(0,67,106,1) 0%, rgba(1,121,145,1) 14%, rgba(1,162,195,1) 74%);
 }
 
+.img-contenedor img {
+  -webkit-transition:all .9s ease; /* Safari y Chrome */
+  -moz-transition:all .9s ease; /* Firefox */
+  -o-transition:all .9s ease; /* IE 9 */
+  -ms-transition:all .9s ease; /* Opera */
+  width:100%;
+  }
+  .img-contenedor:hover img {
+  -webkit-transform:scale(1.5);
+  -moz-transform:scale(1.5);
+  -ms-transform:scale(1.5);
+  -o-transform:scale(1.5);
+  transform:scale(1.5);
+  }
+  .img-contenedor {/*Ancho y altura son modificables al requerimiento de cada uno*/
+  width:auto;
+  height:auto;
+  overflow:visible;
+  }
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";

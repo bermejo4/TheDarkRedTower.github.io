@@ -11,12 +11,12 @@ title: Java Index
 "> ➡️ Buscador de Genes </a>
 
 *****
-<a href="/code/java/BuscadorDeGenes" style="
+<a href="/code/java/BasesDeDatosProtesis" style="
     font-size: 27px;
     font-weight: 600;
     font-family: serif;
 	color: #b20400;
-"> ➡️ Base de datos de una red de protesis </a>
+"> ➡️ Prothesis Network Database </a>
 
 *****
 <img src="/images/javalogo.png" alt="JavaImage" title="Java" width="50%" style="
