@@ -16,8 +16,8 @@ Enjoy!
     width: 80%;
 ">
 
-Bienvenid@s a The Dark Red Tower, un lugar donde compartir información, opiniones, código y mucho más sobre temas tecnológicos. En este blog podrás encontrar dos principales rincones, uno de ellos dedicado a mis propios proyectos (projects), y el otro dedicado a my código (code) publicado también en GitHub. 
-Si quieres saber más sobre mi y quien soy, puedes hacer click en "About" para leer alguna información más sobre mi.
+Bienvenid@s a The Dark Red Tower, un lugar donde compartir información, opiniones, código y mucho más sobre temas tecnológicos. En este blog podrás encontrar dos principales rincones, uno de ellos dedicado a mis propios proyectos (projects), y el otro dedicado a mi código (code) publicado también en GitHub. 
+Si quieres saber más sobre mí y quien soy, puedes hacer click en "About" para leer alguna información adicional.
 Podrás encontrar información en español y en inglés aqui.
 
-!Disfruta!
+¡Disfruta!
