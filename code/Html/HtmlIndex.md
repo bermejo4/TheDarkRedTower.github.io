@@ -12,3 +12,10 @@ title: Html, Css & Js Index
 "> ➡️ Simulador del balance de trading </a>
 
 *****
+
+<img src="/images/html_css_js.png" alt="htmlImage" title="htmlCssJs" width="50%" style="
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+">
