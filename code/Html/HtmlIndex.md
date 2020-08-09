@@ -3,14 +3,12 @@ layout: post
 title: Html, Css & Js Index 
 ---
 *****
-Nothing here, I'm working on it.
 
-<img src="/images/work.png" alt="Working" title="Working" width="50%" style="
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-">
-
-Nada aquí, estoy trabajando en ello.
+<a href="/code/Html/SimuladorCripto" style="
+    font-size: 27px;
+    font-weight: 600;
+    font-family: serif;
+	color: #b20400;
+"> ➡️ Simulador del balance de trading </a>
 
 *****
