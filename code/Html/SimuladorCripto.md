@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simulador del balance de trading 
+title: Simulador para balances de trading 
 ---
 *****
 

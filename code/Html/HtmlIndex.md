@@ -9,7 +9,7 @@ title: Html, Css & Js Index
     font-weight: 600;
     font-family: serif;
 	color: #b20400;
-"> ➡️ Simulador del balance de trading </a>
+"> ➡️ Simulador para balances de trading </a>
 
 *****
 
