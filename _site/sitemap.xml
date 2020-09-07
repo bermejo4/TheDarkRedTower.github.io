@@ -17,9 +17,6 @@
 <loc>http://localhost:4000/code/java/BasesDeDatosProtesis/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/code/Bash/BashIndex/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/projects/Biomedic/BiomedicIndex/</loc>
 </url>
 <url>
@@ -44,6 +41,9 @@
 <loc>http://localhost:4000/code/java/JavaIndex/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/code/python/PythonIndex/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/code/Html/SimuladorCripto/</loc>
 </url>
 <url>
@@ -57,7 +57,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/code.html</loc>
-<lastmod>2020-08-04T10:33:07+02:00</lastmod>
+<lastmod>2020-09-07T15:43:19+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/projects.html</loc>
