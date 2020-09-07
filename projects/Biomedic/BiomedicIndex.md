@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Biomedics & Bioinformatics Index 
+title: Biomedical Engineering & Bioinformatics Index 
 ---
 *****
 Nothing here, I'm working on it.
