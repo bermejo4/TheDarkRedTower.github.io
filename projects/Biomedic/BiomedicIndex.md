@@ -3,15 +3,22 @@ layout: post
 title: Biomedical Engineering & Bioinformatics Index 
 ---
 *****
-Nothing here, I'm working on it.
+ <a href="/projects/Biomedic/EcgComparer" style="
+    font-size: 27px;
+    font-weight: 600;
+    font-family: serif;
+	color: #b20400;
+"> ➡️ Electrocardiogram Data Comparer </a>
 
-<img src="/images/work.png" alt="Working" title="Working" width="50%" style="
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-">
+*****
+<a href="/code/java/BasesDeDatosProtesis" style="
+    font-size: 27px;
+    font-weight: 600;
+    font-family: serif;
+	color: #b20400;
+"> ➡️ Prothesis Network Database </a>
 
-Nada aquí, estoy trabajando en ello.
+*****
 
 *****
 <div style="

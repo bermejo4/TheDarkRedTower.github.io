@@ -3,15 +3,12 @@ layout: post
 title: Genetics Index 
 ---
 *****
-Nothing here, I'm working on it.
-
-<img src="/images/work.png" alt="Working" title="Working" width="50%" style="
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-">
-
-Nada aquí, estoy trabajando en ello.
+ <a href="/code/java/BuscadorDeGenes" style="
+    font-size: 27px;
+    font-weight: 600;
+    font-family: serif;
+	color: #b20400;
+"> ➡️ Buscador de Genes </a>
 
 *****
 <div style="
