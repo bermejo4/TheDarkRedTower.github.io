@@ -18,7 +18,10 @@ html {
 }
 
 body {
-	background: black;
+  background: black ;
+  background-image: url(images/DarkRedTowerWallpaper.jpg);
+  background-repeat:no-repeat ;
+  background-attachment: fixed;
   font: 18px/1.4 $helvetica;
   color: white;
 }
@@ -28,8 +31,9 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  background-color: black;
   color: white;
+  background-color: #00000099;
+  border-radius: 15px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -357,8 +361,7 @@ nav a {
   margin-bottom: 30px;
 }
 .project-box {
-  background: linear-gradient(to right, rgba(230,52,21,1) 0%, rgba(186,27,9,1) 35%, rgba(135,27,12,1) 65%, rgba(92,16,9,1) 100%);
-  box-shadow: inset -3px -2px 7px 1px #333;
+  background: linear-gradient(to right, #e63415b3 0%, #ba1b09bf 35%, #871b0c9e 65%, #5c1009cf 100%);  box-shadow: inset -3px -2px 7px 1px #333;
   border-radius: 15px;
 }
 .row {
@@ -385,7 +388,7 @@ nav a {
 }
 
 .h1code{
-  color: #b9ad16;
+  color: #b20400;
   font-family: "Times New Roman", Times, serif;
   text-shadow: 1px 1px 3px #000508;
 }
@@ -397,8 +400,7 @@ nav a {
 .code-box {
   box-shadow: inset -3px -2px 7px 1px #333;
   border-radius: 15px;
-  background: rgb(0,67,106);
-  background: linear-gradient(279deg, rgba(0,67,106,1) 0%, rgba(1,121,145,1) 14%, rgba(1,162,195,1) 74%);
+  background: linear-gradient(279deg, #00080cc2 0%, #01020285 14%, #000000 74%);
 }
 
 .img-contenedor img {
